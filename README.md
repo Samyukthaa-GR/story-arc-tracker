@@ -1,6 +1,6 @@
 # ET Story Arc Tracker
 
-> Built for the Economic Times AI Hackathon 2026.
+> Built for the Economic Times Gen AI Hackathon 2026.
 > Enter any business story. Get a complete narrative — timeline, players, sentiment, contrarian view, and predictions — built entirely from Economic Times journalism.
 
 ---
